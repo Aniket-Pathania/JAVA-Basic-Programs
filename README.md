@@ -1,2 +1,2 @@
-# Marks-Percentage-Calculator
-This code helps in calculating Percentage from total marks of each subject. (Helpful for Schools).
+#JAVA Basic Programs
+I am starting JAVA and trying to learn it by programmng basic codes.
